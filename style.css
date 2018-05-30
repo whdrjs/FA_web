@@ -99,33 +99,33 @@ ul a:hover
 	width:369px;
 }
 
-#class
+#character
 {
 	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background4.jpg);
 	height:100%;
 	background-size:cover;
 	background-position:cover;
 }
-.class
+.character
 {
 	padding-top:60px;
 	padding-bottom:60px;
 }
-.class h3
+.character h3
 {
 	font-family:"Futura",Futura,sans-serif;
 	font-style:normal;
 	font-size:70px;
 	color:#4597F1;	
 }
-.class h2
+.character h2
 {
 	font-family:"Futura",Futura,sans-serif;
 	font-style:normal;
 	font-size:80px;
 	color:white;	
 }
-.class p
+.character p
 {
 	padding-top:20px;
 	font-family:"Brandon Grotesque",Brandon Grotesque,sans-serif;
@@ -133,7 +133,7 @@ ul a:hover
 	font-size:18px;
 	color:white;
 }
-.class img
+.character img
 {
 	width:402px;
 }
