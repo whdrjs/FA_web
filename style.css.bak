@@ -1,0 +1,151 @@
+*{
+	margin:0;
+	padding:0;
+}
+#top
+{	
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background.jpg);
+	height:100vh;
+	background-size:cover;
+	background-position:center;
+}
+
+.menu
+{
+	list-style:none;
+	margin-left:100px;
+	margin-top:30px;
+	position:fixed;
+	width:100%;
+	height:70px;
+}
+
+.menu li 
+{
+	display:inline-block;
+}
+
+.menu a
+{
+	color:white;
+	text-decoration:none;
+	font-family:"Roboto",sans-serif;
+	font-size:15px;
+	padding:5px 20px;
+}
+.border a
+{
+	border:1px solid white;
+}
+
+ul a:hover
+{
+	border:1px solid white;
+}
+.welcome 
+{
+	padding-top:230px
+}
+.welcome h1
+{
+	font-family: "Castellar", Castelar, monospace;
+	font-style:italic;
+	font-size:100px;
+	color:white;
+}
+.welcome p
+{
+	font-family:"Courier",Courier,monospace;
+	font-style:oblique;
+	font-size:20px;
+	color:white;
+}
+#school
+{
+	background-image:url(background3.jpg);
+	height:100%;
+	background-size:cover;
+	background-position:cover;
+}
+.school
+{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+.school h2
+{
+	font-family:"Futura",Futura,sans-serif;
+	font-style:normal;
+	font-size:80px;
+	color:white;	
+}
+.school p
+{
+	padding-top:20px;
+	font-family:"Brandon Grotesque",Brandon Grotesque,sans-serif;
+	font-style:normal;
+	font-size:18px;
+	color:white;
+}
+.school img
+{
+	width:369px;
+}
+
+#class
+{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background4.jpg);
+	height:100%;
+	background-size:cover;
+	background-position:cover;
+}
+.class
+{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+.class h2
+{
+	font-family:"Futura",Futura,sans-serif;
+	font-style:normal;
+	font-size:80px;
+	color:white;	
+}
+.class p
+{
+	padding-top:20px;
+	font-family:"Brandon Grotesque",Brandon Grotesque,sans-serif;
+	font-style:normal;
+	font-size:18px;
+	color:white;
+}
+.class img
+{
+	width:402px;
+}
+#contact
+{
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(background2.jpg);
+	height:100vh;
+	background-size:cover;
+	background-position:cover;
+}
+.contact
+{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+.contact h2
+{
+	font-family:"Futura",Futura,sans-serif;
+	font-style:normal;
+	font-size:80px;
+	color:white;	
+}
+.contact p
+{
+	font-family:"Courier",Courier,monospace;
+	font-style:oblique;
+	font-size:20px;
+	color:white;
+}

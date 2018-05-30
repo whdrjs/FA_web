@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>My webpage</title>
+  <link href="style.css" rel="stylesheet" type="text/css">
+ </head>
+ <body>
+	<div id="top" class="">
+		
+		<div id="" class="menubar">
+			<ul class="menu">
+				<li class="border"><a href="">HOME</a></li>
+				<li><a href="file:///C:/Users/%EC%95%88%EC%84%B1%EC%9C%A4/Desktop/webpage/resume.html
+				">RESUME</a></li>
+				<li><a href="#school">SCHOOL</a></li>
+				<li><a href="#class">CLASS</a></li>
+				<li><a href="#contact">CONTACT</a></li>
+			</ul>
+		</div>  
+		
+		<div id="" class="welcome">
+			<center>
+			<h1>Welcome</h1>
+			<br><br><br><br><br>
+			<p>Project#2, Personal Webpage</p><br>
+			<p>This homepage is part of a future term project</p><br>
+			<p>This is brought to you by the maker Sung Yoon Ahn</p><br>
+			<p>201835472</p>
+			</center>
+		</div>
+	</div>
+
+	<div id="school" class="">
+	<a name="school"></a>
+		<center>
+		<div id="" class="school">
+			<h2>Gachon University</h2><br><br>
+			<p>An academic institute located in South Korea.</p>
+			<p>The current structure of Gachon university is the result of a merger between four existing universities.</p>
+			<p>Gachon University of Medicine and Science and Gachon-gil College merged in 2007,</p>
+			<p>Kyungwon University and Kyungwon College merged in 2007,</p>
+			<p>and Gachon University of Medicine and Science and Kyungwon University merged in 2012.</p>
+			<br>
+				<img src="gachon.jpg">
+			<br>
+			<p>Gachon University has three campuses for undergraduates,</p>
+			<p>the Global Campus located in Seongnam, satellite campuses on Ganghwa Island and in Yeonsu-dong,</p>
+			<p>and the School of Medicine in Guwol-dong, Namdong-gu, Incheon, South Korea.</p>
+			<p>Gachon University signed a strategic partnership with Hawaii Pacific to allow students to study abroad.</p>
+			<br><br><br>
+			<h2>Collage of Inforamation Technology</h2><br><br>
+			<p>21세기 정보화 사회가 필요로 하는 경쟁력 갖춘 글로벌 IT 인재를 양성하기 위해 정보기술의 기초와 그 응용분야를 배우고,</p>
+			<p>다양한 산업분야와의 융합 등의 새로운 환경에서 요구되는 IT융합 관련 소프트웨어 및 시스템을 설계하고 연구한다.</p>
+			<p>또 IT 관련 공인자격을 획득하여 급변하는 정보환경에 참여할 수 있는 기술을 연마한다.</p>
+			<p>현재, 소프트웨어학과, 컴퓨터공학과, 전자공학과, 에너지IT학과로 구성되어 있다.</p>
+			<br>
+			<img src="IT.jpg">
+			<br>
+			<p>IT대학은 인성교육을 바탕으로 21세기 정보화 사회가 요구하는 실용, 전문 및 세계화 된 IT 분야의 인재를 양성한다. </p>
+			<p>즉, 정보기술 분야의 기초와 응용이론을 배우고 새로운 개념을 설계 및 연구함으로써, 급변하는 IT융합 환경에 능동적으로 대처하고,</p>
+			<p>국가와 국제사회에 기여할 수 있는 IT 전문가 양성을 실현하기 위해 다음과 같은 교육목표를 둔다.</p>
+			<p>-탐구적 지성인 : 미래지향적 탐구 능력을 갖춘 인재 양성</p>
+			<p>-창의적 기술인 : 창조적 응용능력을 갖춘 인재양성</p>
+			<p>-자주적인 세계인 : 글로벌 경쟁력을 갖춘 인재 양성</p>
+			<br><br><br>
+			<h2>Software Department</h2>
+			<br><br>
+			<p>4차 산업혁명을 예견한 교육과정과 과학기술정보통신부의 소프트웨어중심대학 지원으로</p>
+			<p>국내대학 소프퉤어 교육의 새로운 기준이 된 가천대 명품학과 입니다.</p>
+			<br>
+			<img src="software.jpg">
+			<br>
+			<p>소프트웨어 전공교육 개혁을 목표로 세계적 석학 김원 교수를 영입하여 가천대 유일의 교육 특성화 학과를 신설하여 운영 중에 있으며</p>
+			<p>산업체의 요구를 지속적으로 반영한 교과과정 설계로 기존 틀에 얽매이지 않은 교육과정을 수립하여 수행하고 있습니다.</p>
+			<p>-소프트웨어 전공 + 경영학기초 부전공</p>
+			<p>-소프트웨어 전공: 지능정보(인공지능) 소프트웨어 집중 학습</p>
+			<p>-3,4학년 대상 44개 심화과정(트랙) 운영</p>
+			<p>② 웹 및 모바일 트랙(웹 및 앱 설계 개발)</p>
+			<p>③ 스마트 시스템 트랙(사물인터넷, 앱개발 로봇, 드론, 가상/증강현실 등)</p>
+			<p>④ 인공지능 트랙(데이터 과학, 빅데이터 분석 및 응용, 음성인식, 영상인식 등)</p>
+		</center>
+		</div>
+	
+	</div>
+
+	<div id="class" class="">
+		<center>
+		<div id="" class="class">
+			<h2>Web Programming</h2>
+			<br><br>
+			<p>This course will provide students with acomprehensive mastery of</p>
+			<p>Hyper Tex tMarkup Language(HTML),CSS(Cascading Style Sheets), JavaScript and PHP coding practices.</p>
+			<P>You will learn how to use them appropriately and how to combine them to build flexible, user friendly and robust Websites.</p>
+			<br>
+			<img src="html.jpg">
+			<br>
+			<p>We study fundamental techniques for web page construction.</p>
+			<p>We deal with Javascript and PHP programming.</p>
+			<p>In the class, the technique is first presented by the professor,</p>
+			<p>and then students do exercise on the technique on the same day.</p>
+			<p>Students are assigned four homeworks.</p>
+			<p>They take mid-term and final exams.</p>
+			<br><br><br>
+			<h2>Computer Programming</h2>
+			<br><br>
+			<p>This course is to learn the basic skills of C programming and simple problem solving.</p>
+			<p>Every topic will be covered by one theory lecture and one lab session.</p>
+			<br>
+			<img src="computerprogramming.jpg">
+			<br>
+			<p>From this course, you will learn</p>
+			<p>- basic concept of C languages </p>
+			<p>- problem solving method with C languages and it application</p>
+			<p>- the elements of a typical C program development environment</p>
+			<p>- basic concept of computer</p>
+			<br><br><br>
+			<h2>Discrete Mathematics</h2>
+			<br><br>
+			<p>Discrete mathematics and computer science</p>
+			<p>Concepts from discrete mathematics are useful for describing objects and problems</p>
+			<p>in computer algorithms and programming languages.</p>
+			<p>These have applications in cryptography, automated theorem proving, and software development.</p>
+			<br>
+			<img src="discrete.jpg">
+			<br>
+			<p>Introduce students to a range of mathematical tools from discrete mathematics that are key in computer science.</p>
+			<p>- How to write statements rigorously.</p>
+			<p>- How to read and write theorems, lemmas, etc.</p>
+			<p>- How to write rigorous proofs.</p>
+
+		</div>
+		</center>
+	</div>
+
+	<div id="contact" class="">
+		<center>
+			<div id="" class="contact">
+				<h2>Contact</h2>
+				<br><br><br><br><br><br>
+				<p>Contact Number : 010-7123-1039</p>
+				<br>
+				<p>Email : sungyoonahn@naver.com</p>
+				<br>
+				<p>Adress :	Gyeonggi do, South Korea</p>
+				<p>Gachon University 2nd Dormitory 253</p>
+				<br><br><br><br><br><br><br><br><br><br>
+				<p>##########################################################</p>
+				<br>
+				<br>
+				<h1>Good Bye!</h1>
+			</div>
+		</center>
+	</div>
+ </body>
+</html>
