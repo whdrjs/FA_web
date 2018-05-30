@@ -58,7 +58,7 @@ ul a:hover
 	font-family:"Courier",Courier,monospace;
 	font-style:oblique;
 	font-size:20px;
-	color:white;
+	color:#E3E3E3;	
 }
 #intro
 {
@@ -99,50 +99,122 @@ ul a:hover
 	width:369px;
 }
 
-#character
+#class
 {
 	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background4.jpg);
 	height:100%;
 	background-size:cover;
 	background-position:cover;
 }
-.character
+.class
 {
 	padding-top:60px;
 	padding-bottom:60px;
 }
-.character h3
+.class h3
 {
 	font-family:"Futura",Futura,sans-serif;
 	font-style:normal;
 	font-size:70px;
-	color:white;
+	color:white;	
 }
-.character h2
+.class h2
 {
 	font-family:"Futura",Futura,sans-serif;
 	font-style:normal;
 	font-size:80px;
 	color:white;	
 }
-.character p
+.class p
 {
 	padding-top:20px;
 	font-family:"Brandon Grotesque",Brandon Grotesque,sans-serif;
 	font-style:normal;
 	font-size:18px;
 	color:white;
+}
+.class img
+{
+	width:402px;
+}
+#contact
+{
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(background2.jpg);
+	height:100vh;
+	background-size:cover;
+	background-position:cover;
+}
+.contact
+{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+.contact h2
+{
+	font-family:"Futura",Futura,sans-serif;
+	font-style:normal;
+	font-size:80px;
+	color:white;	
+}
+.contact p
+{
+	font-family:"Courier",Courier,monospace;
+	font-style:oblique;
+	font-size:20px;
+	color:white;
+}
+.contact h1
+{
+	font-family: "Castellar", Castelar, monospace;
+	font-style:italic;
+	font-size:100px;
+	color:white;
+}
+#question
+{
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(background.jpg);
+	height:100vh;
+	background-size:cover;
+	background-position:cover;
+}
+.section-header h2
+{
+	font-family:"Futura",Futura,sans-serif;
+	font-style:normal;
+	font-size:80px;
+	color:white;	
+}
+.section-header h3
+{
+font-family:"Futura",Futura,sans-serif;
+	font-style:normal;
+	font-size:30px;
+	color:white;	
+}
+.pirate_forms_wrap input{
+  width: 120px;
+  height: 30px;
+  background: white;
+  border: none;
+  font-size: 10pt;
+  float: left;
+  color: black;
+  padding-left: 45px;
+   border-radius: 5px;
+  margin:0 auto;
+}
+.textarea_form textarea{
+width: 450px;
+  height: 200px;
+  background: white;
+  border: none;
+  font-size: 10pt;
+  float: left;
+  color: black;
+  padding-left: 45px;
+   border-radius: 5px;
+}
+.message send button{
+
 }
 
-.character a
-{
-	padding-top:20px;
-	font-family:"Brandon Grotesque",Brandon Grotesque,sans-serif;
-	font-style:normal;
-	font-size:18px;
-	color:white;
-}
-.character img
-{
-	width:360px;
-}
