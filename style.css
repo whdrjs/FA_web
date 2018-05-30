@@ -133,6 +133,15 @@ ul a:hover
 	font-size:18px;
 	color:white;
 }
+
+.character a href
+{
+	padding-top:20px;
+	font-family:"Brandon Grotesque",Brandon Grotesque,sans-serif;
+	font-style:normal;
+	font-size:18px;
+	color:white;
+}
 .character img
 {
 	width:360px;
