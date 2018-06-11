@@ -127,6 +127,14 @@ ul a:hover
 	font-size:20px;
 	color:#000000;	
 }
+.discription a
+{
+	font-family:"Futura",Futura,sans-serif;
+	font-style:normal;
+	font-size:20px;
+	color:#000000;	
+}
+
 #class
 {
 	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background4.jpg);
