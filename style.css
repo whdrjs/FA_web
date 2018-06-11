@@ -101,7 +101,7 @@ ul a:hover
 
 #character
 {
-	background-image:url(background3.jpg);
+	//background-image:url(background3.jpg);
 	height:100%;
 	background-size:cover;
 	background-position:cover;
@@ -111,21 +111,21 @@ ul a:hover
 	font-family:"Futura",Futura,sans-serif;
 	font-style:normal;
 	font-size:70px;
-	color:black;	
+	color:#000000;	
 }
 .section-header h3
 {
 	font-family:"Futura",Futura,sans-serif;
 	font-style:normal;
 	font-size:50px;
-	color:black;	
+	color:#000000;	
 }
 .section-header p
 {
 	font-family:"Futura",Futura,sans-serif;
 	font-style:normal;
 	font-size:30px;
-	color:black;	
+	color:#000000;	
 }
 #class
 {
