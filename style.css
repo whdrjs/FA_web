@@ -106,21 +106,21 @@ ul a:hover
 	background-size:cover;
 	background-position:cover;
 }
-.section-header h2
+.discription h2
 {
 	font-family:"Futura",Futura,sans-serif;
 	font-style:normal;
 	font-size:70px;
-	color:#000000;	
+	color:#4597F1;	
 }
-.section-header h3
+.discription h3
 {
 	font-family:"Futura",Futura,sans-serif;
 	font-style:normal;
 	font-size:50px;
-	color:#000000;	
+	color:#4597F1;	
 }
-.section-header p
+.discription p
 {
 	font-family:"Futura",Futura,sans-serif;
 	font-style:normal;
