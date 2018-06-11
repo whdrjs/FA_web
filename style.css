@@ -98,9 +98,10 @@ ul a:hover
 {
 	width:369px;
 }
+
 #character
 {
-	background-image:url(back3.png);
+	background-image:url(background3.jpg);
 	height:100%;
 	background-size:cover;
 	background-position:cover;
@@ -201,7 +202,7 @@ ul a:hover
 
 #Team
 {
-	background-image:linear-gradient(rgba(0,0,0,0.0),rgba(0,0,0,0)),url(Team.png);
+	background-image:linear-gradient(rgba(0,0,0,0.0),rgba(0,0,0,0)),url(team.jpg);
 	height:100vh;
 	background-size:cover;
 	background-position:cover;
